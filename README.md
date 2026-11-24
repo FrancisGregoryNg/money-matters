@@ -1,6 +1,7 @@
-This is my first non-guided Boot.dev personal project.
+# Money Matters
 
-Money Matters will help handle basic money calculations:
+This is my first non-guided Boot.dev personal project.
+Choose from an assortment of basic money calculations (may or may not be useful):
 - Net income (Philippines)
 - Group expense splitting
 - Installment plans
@@ -8,7 +9,7 @@ Money Matters will help handle basic money calculations:
 - etc.
 
 
-How to use:
+# How to use
 
 1. Make sure that [uv](https://docs.astral.sh/uv/getting-started/installation/) is installed.
 
