@@ -1,15 +1,17 @@
 # Money Matters
 
 This is my first non-guided Boot.dev personal project.
-Choose from an assortment of basic money calculations (may or may not be useful):
-- Net income (Philippines)
-- Group expense splitting
-- Installment plans
-- Effective bond yield
-- etc.
+Choose from an assortment of basic money calculations (may or may not be useful).
 
+## Features
 
-# How to use
+- [ ] Net income (Philippines)
+- [ ] Group expense splitting
+- [ ] Installment plans
+- [ ] Effective bond yield
+- [ ] _will think of other ideas_
+
+## How to use
 
 1. Make sure that [uv](https://docs.astral.sh/uv/getting-started/installation/) is installed.
 
